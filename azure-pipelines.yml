@@ -1,5 +1,5 @@
 # Starter pipeline
-- task: FortifyOnDemandStatic@7
+- task: FortifyOnDemandStatic@5
   inputs:
     FortifyProjects: 
 # Start with a minimal pipeline that you can customize to build and deploy your code.
